@@ -68,7 +68,7 @@ global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLI
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "Ahmad Bot"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "Trunks"
+global.author = process.env.AUTHER_NAME || "ahmadxd"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "2347013948225@s.whatsapp.net"
 //________________________________________________________________________________________________________
